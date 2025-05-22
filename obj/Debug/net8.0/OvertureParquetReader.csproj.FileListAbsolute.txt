@@ -1,0 +1,5 @@
+/workspace/OvertureParquetReader/obj/Debug/net8.0/OvertureParquetReader.csproj.AssemblyReference.cache
+/workspace/OvertureParquetReader/obj/Debug/net8.0/OvertureParquetReader.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/OvertureParquetReader/obj/Debug/net8.0/OvertureParquetReader.AssemblyInfoInputs.cache
+/workspace/OvertureParquetReader/obj/Debug/net8.0/OvertureParquetReader.AssemblyInfo.cs
+/workspace/OvertureParquetReader/obj/Debug/net8.0/OvertureParquetReader.csproj.CoreCompileInputs.cache

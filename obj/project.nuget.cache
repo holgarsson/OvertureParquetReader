@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRwuRlfotmI=",
+  "success": true,
+  "projectFilePath": "/workspace/OvertureParquetReader/OvertureParquetReader.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/ironcompress/1.1.5/ironcompress.1.1.5.nupkg.sha512",
+    "/root/.nuget/packages/parquet.net/4.1.0/parquet.net.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
