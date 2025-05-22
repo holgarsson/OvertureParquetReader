@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bapjAMaqp+vcRtW13qbSvnSbx5qLTwK88XZqCvco4xxQBiydw9oI7jAig83MAV0rkTrse3SUaYdzvaqdRYBnRQ==",
+  "success": true,
+  "projectFilePath": "/workspace/test_parquet2/test_parquet2.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/ironcompress/1.1.5/ironcompress.1.1.5.nupkg.sha512",
+    "/root/.nuget/packages/parquet.net/4.1.0/parquet.net.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

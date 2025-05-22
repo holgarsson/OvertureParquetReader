@@ -1,0 +1,5 @@
+/workspace/test_data/CreateTestParquet/obj/Debug/net7.0/CreateTestParquet.csproj.AssemblyReference.cache
+/workspace/test_data/CreateTestParquet/obj/Debug/net7.0/CreateTestParquet.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/test_data/CreateTestParquet/obj/Debug/net7.0/CreateTestParquet.AssemblyInfoInputs.cache
+/workspace/test_data/CreateTestParquet/obj/Debug/net7.0/CreateTestParquet.AssemblyInfo.cs
+/workspace/test_data/CreateTestParquet/obj/Debug/net7.0/CreateTestParquet.csproj.CoreCompileInputs.cache
