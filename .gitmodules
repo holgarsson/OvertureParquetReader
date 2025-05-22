@@ -1,0 +1,3 @@
+[submodule "OvertureParquetReader"]
+	path = OvertureParquetReader
+	url = https://github.com/holgarsson/OvertureParquetReader.git
